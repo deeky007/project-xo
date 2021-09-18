@@ -162,6 +162,13 @@ let All_song = [
      img: "9.png",
      singer: "Ariana Grande ft. The Weeknd"
    },
+
+          {
+     name: "Die For The Moon",
+     path: "21.mp3",
+     img: "21.png",
+     singer: "The Weeknd,Bruno Mars ft. Michael Jackson"
+   },
    
    
    ];
