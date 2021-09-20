@@ -51,15 +51,15 @@ let All_song = [
      singer: "The Weeknd"
    },
    {
-     name: "Tears in The Rain",
+     name: "Lost in the Fire",
      path: "5.mp3",
      img: "5.jpg",
-     singer: "The Weeknd"
+     singer: "The Weeknd ft. Gessafalistien"
    }, 
       {
-     name: "Wicked Games",
+     name: "Scared to Live",
      path: "6.mp3",
-     img: "6.jpg",
+     img: "7.jpg",
      singer: "The Weeknd"
    },
       {
