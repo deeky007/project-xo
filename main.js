@@ -170,7 +170,12 @@ let All_song = [
      singer: "The Weeknd,Bruno Mars ft. Michael Jackson"
    },
    
-   
+   {
+     name: "THE HIGHLIGHTS",
+     path: "22.mp3",
+     img: "22.jpeg",
+     singer: "The Weeknd"
+   },
    ];
 
 
