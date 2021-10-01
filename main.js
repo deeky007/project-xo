@@ -171,11 +171,23 @@ let All_song = [
    },
    
    {
-     name: "THE HIGHLIGHTS",
-     path: "22.mp3",
+     name: "THE HIGHLIGHTS | Part-1",
+     path: "22.m4a",
      img: "22.jpeg",
      singer: "The Weeknd"
    },
+
+    {
+     name: "THE HIGHLIGHTS | Part-2",
+     path: "23.m4a",
+     img: "22.jpeg",
+     singer: "The Weeknd"
+   },
+
+
+
+
+
    ];
 
 
